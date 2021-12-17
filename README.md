@@ -14,7 +14,7 @@ ____
 
 
 
-![스크린샷 2021-12-17 오후 3.13.40](/Users/ranking/Library/Application Support/typora-user-images/스크린샷 2021-12-17 오후 3.13.40.png)
+<img width="696" alt="스크린샷 2021-12-17 오후 3 13 40" src="https://user-images.githubusercontent.com/73429381/146498725-488a4afc-4a6e-4045-b94b-8c1c00b2264e.png">
 
 
 
